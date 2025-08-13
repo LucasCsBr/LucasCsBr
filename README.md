@@ -3,12 +3,17 @@ gift # Hi there 👋
 <!-- Cabeçalhos -->
 
 # OLÁ MUNDO
-<h2>Meu nome  : Lucas Eduardo</h2>
-![texto da imagem](https://media.tenor.com/Vd-hE4bIEU8AAAAj/amicat1-math.gif)
+<h2>Meu nome  : Lucas Eduardo</h2> 
 
-*italíco* ou _italíco_
-***negrito*** ou __negrito__
-___negrito e italíco___
+   ![texto da imagem](https://media.tenor.com/Vd-hE4bIEU8AAAAj/amicat1-math.gif)
+
+*Apaixonado por*  **matemática** <br>
+**Bacharelando em** *Matemática*<br>
+ _Futuro_ __engenheiro de software__<br>
+*Xadrês é vida*<br>
+___Aprendendo a aprender___
+
+![Aprendendo criptografia](https://www.inovacaotecnologica.com.br/noticias/imagens/010150100628-criptografia-e-caos-2.gif)
 
 - Lista 1
 - Lista 2
@@ -18,6 +23,7 @@ ___negrito e italíco___
     2. Lista 2
 
     [texto da imagem](https://chatgpt.com/c/6899f12d-eea0-8323-8c40-0bff3eadde5a)
+
 
    ![texto alternativo](https://pensamentos.org/wp-content/uploads/2023/02/gifs-de-bom-dia-1.gif)
 
