@@ -2,7 +2,9 @@ gift # Hi there 👋
 
 <!-- Cabeçalhos -->
 
-# Título 1 -> <h1>Título : </h1>
+# OLÁ MUNDO
+<h2>Meu nome  : Lucas Eduardo</h2>
+![texto da imagem ](https://tenor.com/pt-BR/view/o2-love-island-bubl-robot-blue-gif-25982103)
 *italíco* ou _italíco_
 ***negrito*** ou __negrito__
 ___negrito e italíco___
@@ -22,9 +24,9 @@ ___negrito e italíco___
     `system.put.printin();`
     ```system.put.printin();```
 
-    ![texto da imagem](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBscGk5OHM4M2c3dzZsOGZiMDVpM2xidmZkeHF1Y3B2NzZsczc3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bq6oSl2yU8iYM/giphy.gif)
+    ![texto da imagem](https://tenor.com/pt-BR/view/tkthao219-lengtoo-gif-22349354)
 
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBscGk5OHM4M2c3dzZsOGZiMDVpM2xidmZkeHF1Y3B2NzZsczc3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bq6oSl2yU8iYM/giphy.gif" alt="Descrição" width="300">
+    <img src="https://tenor.com/pt-BR/view/databending-encrypted-data-information-cyberdelic-gif-24791746" alt="Descrição" width="300">
 
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBscGk5OHM4M2c3dzZsOGZiMDVpM2xidmZkeHF1Y3B2NzZsczc3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bq6oSl2yU8iYM/giphy.gif" alt="Descrição" style="max-width:50%; height:auto;">
 
