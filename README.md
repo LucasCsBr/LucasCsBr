@@ -15,12 +15,18 @@ ___Aprendendo a aprender___
 
 ![Aprendendo criptografia](https://www.inovacaotecnologica.com.br/noticias/imagens/010150100628-criptografia-e-caos-2.gif)
 
-- Lista 1
-- Lista 2
-    - sublista 
+- Estou estudando
+   - Aprendendo git [ ] 
+- Estudarei
+    - Lógica de progarmação
+    - C, C++ e C#
 
     1. Lista 1
+
+        1. aprendendo
+    
     2. Lista 2
+
 
     [texto da imagem](https://chatgpt.com/c/6899f12d-eea0-8323-8c40-0bff3eadde5a)
 
@@ -40,19 +46,7 @@ ___Aprendendo a aprender___
 <img src="https://4.bp.blogspot.com/-EcgswjdW7go/VOUspFzCYiI/AAAAAAAAPaI/lQGUGFfDL24/s1600/30.gif" alt="Descrição" style="max-width:60%; height:auto; display:block;">
 
 
-**LucasCsBr/LucasCsBr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
