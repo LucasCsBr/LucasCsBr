@@ -1,6 +1,7 @@
 gift # Hi there 👋
 
 <!-- Cabeçalhos -->
+>Não é que eu seja tão inteligente. Mas eu fico com as perguntas muito mais tempo. Albert Ainsten
 
 # OLÁ MUNDO
 <h2>Meu nome  : Lucas Eduardo</h2> 
@@ -16,16 +17,25 @@ ___Aprendendo a aprender___
 ![Aprendendo criptografia](https://www.inovacaotecnologica.com.br/noticias/imagens/010150100628-criptografia-e-caos-2.gif)
 
 - Estou estudando
-   - Aprendendo git [ ] 
-- Estudarei
+  - Aprendendo git [ ] 
+  - Inglês         [ ]
+  - Matemática     [ ]
+
+- Estudarei         
     - Lógica de progarmação
     - C, C++ e C#
+    - Mandarim
 
-    1. Lista 1
-
-        1. aprendendo
     
-    2. Lista 2
+ 1. Lendo
+     1. Mindset, Carol Dweck
+
+    
+ 2. Fila de leitura
+    1. O Príncipe, Nicolau Maquiavel
+    2. Micro Saas descomplicado, Jeferson Santos
+    3. Moby Dick, Herman Melville
+
 
 
     [texto da imagem](https://chatgpt.com/c/6899f12d-eea0-8323-8c40-0bff3eadde5a)
