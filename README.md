@@ -55,6 +55,8 @@ ___Aprendendo a aprender___
 
 <img src="https://4.bp.blogspot.com/-EcgswjdW7go/VOUspFzCYiI/AAAAAAAAPaI/lQGUGFfDL24/s1600/30.gif" alt="Descrição" style="max-width:60%; height:auto; display:block;">
 
+>vir a ser é melhor do que ser. <br>Desconhecido
+
 
 
 
