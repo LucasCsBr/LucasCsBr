@@ -4,7 +4,8 @@ gift # Hi there 👋
 
 # OLÁ MUNDO
 <h2>Meu nome  : Lucas Eduardo</h2>
-![texto da imagem ](https://tenor.com/pt-BR/view/o2-love-island-bubl-robot-blue-gif-25982103)
+![texto da imagem](https://media.tenor.com/Vd-hE4bIEU8AAAAj/amicat1-math.gif)
+
 *italíco* ou _italíco_
 ***negrito*** ou __negrito__
 ___negrito e italíco___
