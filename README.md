@@ -53,7 +53,7 @@ ___Aprendendo a aprender___
 
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBscGk5OHM4M2c3dzZsOGZiMDVpM2xidmZkeHF1Y3B2NzZsczc3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bq6oSl2yU8iYM/giphy.gif" alt="Descrição" style="max-width:50%; height:auto;">
 
-   >A matemática, vista corretamente, possui não apenas verdades, mas beleza suprema, uma beleza fria e austera, como a br>da escultura 
+   >A matemática, vista corretamente, possui não apenas verdades, mas beleza suprema, uma beleza fria e austera, como a da escultura 
     <br>Bertrand Russel
 
 <img src="https://4.bp.blogspot.com/-EcgswjdW7go/VOUspFzCYiI/AAAAAAAAPaI/lQGUGFfDL24/s1600/30.gif" alt="Descrição" style="max-width:60%; height:auto; display:block;">
